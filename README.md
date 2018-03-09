@@ -1,5 +1,5 @@
 # WindTurbineHighSpeedBearingPrognosis-Data
-Data set for "Wind Turbine High-Speed Bearing Prognosis" example in Predictive Maintenance Toolbox.
+Dataset for "Wind Turbine High-Speed Bearing Prognosis" example in Predictive Maintenance Toolbox.
 
 The data is sourced from http://data-acoustics.com/measurements/bearing-faults/bearing-3/.
 
